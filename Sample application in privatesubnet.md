@@ -116,10 +116,3 @@ This document outlines the process of deploying an application in a **private su
 
 ---
 
-## Conclusion
-You have successfully deployed an application in a **private subnet** and made it accessible via **AWS ALB**. This setup ensures better security by restricting direct internet access to the application servers while allowing controlled traffic through the ALB.
-
-For any modifications, update the **Target Group** or **ALB Rules** as needed.
-
-📌 *Add Additional Notes or Screenshots if Required*
-
